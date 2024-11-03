@@ -1,8 +1,12 @@
+# ⚾️  HiT Zone
+**한국대학생IT경영학회 KUSITMS 30th**
+<img src="https://github.com/user-attachments/assets/9f544a51-37f1-4207-9329-a787b9ee32c9" alt="히트존 소개" width="1080" />
+
 # 🧑🏻‍💻👩🏻‍💻 Three-Peat's Developers
 
-|<img src="https://github.com/inaemon.png" width="200" height="200" />|<img src="https://github.com/2unhi.png" width="200" height="200" />|<img src="https://github.com/bbbang105.png" width="200" height="200" />|<img src="https://github.com/juuuunny.png" width="200" height="200" />
+|<img src="https://github.com/inaemon.png" width="220" height="220" />|<img src="https://github.com/2unhi.png" width="220" height="220" />|<img src="https://github.com/bbbang105.png" width="220" height="220" />|<img src="https://github.com/juuuunny.png" width="220" height="220" />|
 |:---:|:---:|:---:|:---:|
-|[박인애](https://github.com/bbbang105)|[이은학](https://github.com/Kong-E)|[한상호](https://github.com/bin-pro)|[박준형](https://github.com/bin-pro)|
+|[박인애](https://github.com/inaemon)|[이은학](https://github.com/2unhi)|[한상호](https://github.com/bbbang105)|[박준형](https://github.com/juuuunny)|
 |Frontend Lead|Frontend|Backend Lead|Backend|
 
 <br>
