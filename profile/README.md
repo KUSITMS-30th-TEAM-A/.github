@@ -4,7 +4,7 @@
 
 # 🧑🏻‍💻👩🏻‍💻 Three-Peat's Developers
 
-|<img src="https://github.com/inaemon.png" width="220" height="220" />|<img src="https://github.com/2unhi.png" width="220" height="220" />|<img src="https://github.com/bbbang105.png" width="220" height="220" />|<img src="https://github.com/juuuunny.png" width="220" height="220" />|
+|<img src="https://github.com/inaemon.png" width="200" height="200" />|<img src="https://github.com/2unhi.png" width="200" height="200" />|<img src="https://github.com/bbbang105.png" width="200" height="200" />|<img src="https://github.com/juuuunny.png" width="200" height="200" />|
 |:---:|:---:|:---:|:---:|
 |[박인애](https://github.com/inaemon)|[이은학](https://github.com/2unhi)|[한상호](https://github.com/bbbang105)|[박준형](https://github.com/juuuunny)|
 |Frontend Lead|Frontend|Backend Lead|Backend|
