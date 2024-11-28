@@ -752,7 +752,7 @@ Coach Marks는 유저에게 특정 기능이나 화면의 중요한 부분을 �
 
 [[A팀] 백엔드 파트 코드리뷰용 PR by bbbang105 · Pull Request #44 · KUSITMS-30th-TEAM-A/backend](https://github.com/KUSITMS-30th-TEAM-A/backend/pull/44)
 
-- 심사위원분께서 코드리뷰 해주신 코멘트를 기반으로 `refactor-v1` 브랜치에서 1차 리팩토링을 진행중입니다.
+- 심사위원분께서 코드리뷰 해주신 코멘트를 기반으로 `refactor-v1` 브랜치에서 1차 리팩토링을 완료하였습니다.
 
 <img width="866" alt="1" src="https://github.com/user-attachments/assets/5dfcda02-3f32-4886-8a91-3ce3ba348329">|<img width="866" alt="2" src="https://github.com/user-attachments/assets/078639ad-4868-4ac3-80e9-c4d9c052b81b">
 ---|---|
